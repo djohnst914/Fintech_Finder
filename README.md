@@ -23,7 +23,7 @@ Fintech Finder is an application that its customers can use to find fintech prof
 **4.** In your terminal, navigate to the directory containing this repo. Then type and enter: "streamlit run fintech_finder.py"
 
 ### **IMPORTANT:** 
-- Ensure conda 'dev' environment is activated in terminal before running the application, or some other preferred IDE of your choice that works with the above listed libraries:
+- Ensure conda 'dev' environment is activated in terminal before running the application, or some other preferred DE of your choice that works with the above listed libraries:
 
                         Conda activate dev 
 
