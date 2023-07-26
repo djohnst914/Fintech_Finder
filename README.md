@@ -57,4 +57,4 @@ For any questions, comments, concerns, feel free to contact below:
 
 ## *License*
 
-This software is licensed under the MIT License. See [LICENSE](https://github.com/djohnst914/MercadoLibre_Time_Series/blob/main/LICENSE) file for details. 
+This software is licensed under the GNU v3.0 License. See [LICENSE](https://github.com/djohnst914/Fintech_Finder/blob/main/LICENSE) file for details. 
